@@ -1,6 +1,6 @@
-# TEAM 4 Watsonx Challenge Protoype 
+# Watsonx Challenge Protoype 
 Jupyter notebook with streamlit GUI 
-
+Before starting, please check `lab-0-laptop-environment-setup` and follow the instructions to install the prereqs on your laptop  
 # Startup 🚀
 1. Open your terminal or console window
 2. cd into this lab's base directory
